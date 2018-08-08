@@ -4,7 +4,7 @@ LogOut-Cyber-Awareness-Campaign: This team planned for cyber awareness campaign 
 
 * Talk title : Authentication or Authorization as a Service (AAAS) & Server Security
 * Description : Authorization as a Service (AAAS) is a service able to correlate identity, context and operational facts with a rule-driven policy, and produce a decision for an authorized claimant. Authentication is an important factor in the success of applications and their architectures. Serverless architectures are no exception to this. One of the leading serverless Authentication as a Service (AaaS) platforms is Auth0. In this talk the audience learned about the different concepts of Authentication or Authorization. 
-* [RSVP Here](https://reps.mozilla.org/e/logout-gujarats-1st-cyber-awareness-conference/)
+* [RSVP Here](https://reps.mozilla.org/e/logout-cyber-security-workshop-dubizzle/)
 
 ### Goals : 
 
