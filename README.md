@@ -21,5 +21,5 @@ LogOut-Cyber-Awareness-Campaign: This team planned for cyber awareness campaign 
 
 Feel free to ping me anytime on [Telegram](http://telegram.me/rowdymehul) or [Twitter](http://twitter.com/rowdymehul) and I’m happy to chat with you.
 
-For any queries raise a [issue](https://github.com/rowdymehul/-Logout-Cyber-Security-Workshop-dubizzle/issues) and please feel free to submit a PR anytime :)
+For any queries raise a [issue](https://github.com/rowdymehul/Logout-Cyber-Security-Workshop-dubai/issues) and please feel free to submit a PR anytime :)
 
